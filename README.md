@@ -399,6 +399,14 @@ Native Swift macOS app + Flask backend. GPT-4 + Whisper, auto-scaling AWS, multi
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hayrapetyan-Anri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=ec4899&point=ffffff&area=true" alt="activity graph" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hayrapetyan-Anri/Hayrapetyan-Anri/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hayrapetyan-Anri/Hayrapetyan-Anri/output/snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Hayrapetyan-Anri/Hayrapetyan-Anri/output/snake.svg" />
+</picture>
+
 </div>
 
 ---
