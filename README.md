@@ -397,15 +397,22 @@ Native Swift macOS app + Flask backend. GPT-4 + Whisper, auto-scaling AWS, multi
 
 <img src="https://streak-stats.demolab.com/?user=Hayrapetyan-Anri&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=ec4899&currStreakLabel=6366f1" alt="streak" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hayrapetyan-Anri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=ec4899&point=ffffff&area=true" alt="activity graph" />
+</div>
 
-<br/><br/>
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hayrapetyan-Anri/Hayrapetyan-Anri/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hayrapetyan-Anri/Hayrapetyan-Anri/output/snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Hayrapetyan-Anri/Hayrapetyan-Anri/output/snake.svg" />
-</picture>
+<div align="center">
+  <h3>🐍 Watch the snake eat my contributions</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hayrapetyan-Anri/Hayrapetyan-Anri/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hayrapetyan-Anri/Hayrapetyan-Anri/output/snake.svg" />
+    <img width="100%" alt="snake animation" src="https://raw.githubusercontent.com/Hayrapetyan-Anri/Hayrapetyan-Anri/output/snake-dark.svg" />
+  </picture>
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hayrapetyan-Anri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=ec4899&point=ffffff&area=true&custom_title=Contribution+Pulse" alt="activity graph" />
 
 </div>
 
