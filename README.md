@@ -1,14 +1,12 @@
 <div align="center">
 
-<a href="https://anridev.com">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Anri%20Hayrapetyan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20AI%20%26%20Cloud%20Engineer%20%E2%80%A2%20Backend%20Architect&descAlignY=58&descSize=20" />
-</a>
+# Anri Hayrapetyan
+### Senior AI & Cloud Engineer · Backend Architect
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=6366F1&center=true&vCenter=true&width=820&lines=Building+production+AI+that+handles+millions+of+requests+daily;5%2B+years+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+AWS+%C2%B7+LangGraph+%C2%B7+PyTorch;Multi-agent+architectures.+Banking-grade+infrastructure.+Live+products.;Let%27s+build+something+that+actually+ships+%F0%9F%9A%80" />
-</a>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=800&color=6366F1&center=true&vCenter=true&width=820&lines=Building+production+AI+that+handles+millions+of+requests+daily;5%2B+years+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+AWS+%C2%B7+LangGraph+%C2%B7+PyTorch;Multi-agent+architectures.+Banking-grade+infrastructure.+Live+products.;Let's+build+something+that+actually+ships+%F0%9F%9A%80" alt="typing banner" />
+</p>
 
-<br/>
 
 <a href="https://anridev.com"><img src="https://img.shields.io/badge/🌐_Portfolio-anridev.com-6366F1?style=for-the-badge&labelColor=0D1117" /></a>
 <a href="https://www.linkedin.com/in/anri-hayrapetyan-736180242/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
@@ -394,14 +392,12 @@ Native Swift macOS app + Flask backend. GPT-4 + Whisper, auto-scaling AWS, multi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hayrapetyan-Anri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366f1&title_color=6366f1&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayrapetyan-Anri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&langs_count=8" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hayrapetyan-Anri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366f1&title_color=6366f1&count_private=true&include_all_commits=true" alt="github stats" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hayrapetyan-Anri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&langs_count=8" alt="top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hayrapetyan-Anri&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=ec4899&currStreakLabel=6366f1" />
+<img src="https://streak-stats.demolab.com/?user=Hayrapetyan-Anri&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=ec4899&currStreakLabel=6366f1" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hayrapetyan-Anri&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hayrapetyan-Anri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=ec4899&point=ffffff" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hayrapetyan-Anri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=ec4899&point=ffffff&area=true" alt="activity graph" />
 
 </div>
 
